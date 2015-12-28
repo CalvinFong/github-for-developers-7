@@ -3,3 +3,4 @@
 * From: Australia
 * Favourite food: Burgers
 * Hobby: Frisbee
+* Favourite colour: Green
